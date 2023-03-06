@@ -1,5 +1,5 @@
 # Strongly-Typed EventBus Factory
-
+ 
 ## busFactory
 This library contains a builder function that returns an EventBus object.   
 The builder function takes a `type` parameter that is a set of named events as \<name: type\>.
